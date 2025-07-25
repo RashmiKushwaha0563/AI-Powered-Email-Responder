@@ -1,4 +1,4 @@
-# 🤖 AI-Powered Email Responder
+<h1 align="center"># 🤖 AI-Powered Email Responder</h1>
 ![screenshot](./src/aa.png)
 
 An AI-based tool that generates professional and context-aware replies to customer emails using LLaMA 3 via Ollama, FastAPI for backend, and Gradio for a simple web interface.
