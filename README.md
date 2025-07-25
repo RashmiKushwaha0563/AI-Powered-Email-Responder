@@ -1,3 +1,3 @@
 # AI-Powered_Email_Responder
-[screenshot](/src/aa.png)
+![screenshot](./src/aa.png)
 
